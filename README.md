@@ -25,4 +25,10 @@ This plugin adds the hosted Myeline MCP server (streamable HTTP with OAuth).
 - `cortex_daily_card` - file a day's card when the user asks for it
 - `cortex_save_prompt` / `cortex_prompt` - saved prompts by #handle
 
+## Install (Claude Code 2.1.275+)
+
+```
+/plugin install myeline --marketplace Sandbox-Group-LLC/myeline-claude-plugin
+```
+
 MIT License. By Sandbox Group LLC.
