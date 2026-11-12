@@ -10,5 +10,13 @@
   "homepage": "https://myeline.si",
   "repository": "https://github.com/Sandbox-Group-LLC/myeline-claude-plugin",
   "license": "MIT",
-  "keywords": ["memory", "ai memory", "agent memory", "persistent memory", "knowledge base", "mcp"]
+  "keywords": [
+    "memory",
+    "ai memory",
+    "agent memory",
+    "persistent memory",
+    "knowledge base",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://myeline.si/privacy"
 }
